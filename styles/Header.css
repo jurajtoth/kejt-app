@@ -1,15 +1,11 @@
-.logo {
-	font-size: 100;
-}
-
 .homepage-header {
   background-color: #0087a2;
-  height: 10%;
-  padding: 7% 10% 7% 10%;
+  padding: 5% 5% 5% 5%;
   color: #ffffff;
+  text-align: center;
 }
 
 .title {
 	margin-left: 25px;
-	font-size: 300%;
+	font-size: 250%;
 }
