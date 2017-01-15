@@ -27,7 +27,7 @@ class BazalResults extends React.Component {
                 <div className="static-modal">
                     <Modal show={this.state.showModal} onHide={this.close.bind(this)}>
                         <Modal.Header>
-                            <Modal.Title>Výsledok bazál</Modal.Title>
+                            <Modal.Title>Výsledok bazálnej potreby tekutín</Modal.Title>
                         </Modal.Header>
                         <Modal.Body>
                             <div className="results">

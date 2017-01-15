@@ -94,7 +94,7 @@ class BazalScreen extends React.Component {
         } else {
             resultPart = 10 * bazalConfig.until20;
             calculation.push(10 + " * " + bazalConfig.until20 + " = " + resultPart);
-            weightRemainder - 10;
+            weightRemainder -= 10;
         }
         result += resultPart;
 

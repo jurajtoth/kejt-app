@@ -17,7 +17,7 @@ class MainMenu extends React.Component {
                         bsStyle="primary"
                         bsSize="large"
                         onClick={this.goToBazalScreen.bind(this)}
-                    >Bazál</Button>
+                    >Bazálna potreba tekutín</Button>
             </ButtonGroup>
         );
     }
